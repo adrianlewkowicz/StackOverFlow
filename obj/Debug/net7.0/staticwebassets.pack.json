@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/adrianlewkowicz/Projects/StackOverflow/StackOverflow/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.StackOverflow.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.StackOverflow.props",
+      "PackagePath": "build\\StackOverflow.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.StackOverflow.props",
+      "PackagePath": "buildMultiTargeting\\StackOverflow.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.StackOverflow.props",
+      "PackagePath": "buildTransitive\\StackOverflow.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

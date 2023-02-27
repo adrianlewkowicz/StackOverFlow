@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "1z4dPN1s2Mgh/n1ZHMdZfw55TkjwaGG5zBmtb4HmYyg=",
+  "Source": "StackOverflow",
+  "BasePath": "_content/StackOverflow",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StackOverflow/wwwroot",
+      "Source": "StackOverflow",
+      "ContentRoot": "/Users/adrianlewkowicz/Projects/StackOverflow/StackOverflow/wwwroot/",
+      "BasePath": "_content/StackOverflow",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/adrianlewkowicz/Projects/StackOverflow/StackOverflow/wwwroot/favicon.ico",
+      "SourceId": "StackOverflow",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/adrianlewkowicz/Projects/StackOverflow/StackOverflow/wwwroot/",
+      "BasePath": "_content/StackOverflow",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}

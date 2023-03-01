@@ -1,0 +1,22 @@
+<h1 id="tableLabel">One thousand most popular tags</h1>
+
+
+<p *ngIf="!tags?.length"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="tags.length">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Popularity</th>
+            <th>Usage</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let tagsss of tags">
+            <td>{{ tagsss.id }}</td>
+            <td>{{ tagsss.popularity }}</td>
+            <td>{{ tagsss.usage  }}</td>
+        </tr>
+    </tbody>
+</table>
+
